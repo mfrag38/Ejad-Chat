@@ -1,0 +1,8 @@
+{
+	"name": "RocketChatRN",
+	"share": "ShareRocketChatRN",
+	"displayName": "RocketChatRN",
+	"server": "http://54.72.190.166:3000",
+	"appGroup": "group.ios.chat.ejad",
+	"appStoreID": "1272915472"
+}
