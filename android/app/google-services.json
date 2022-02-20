@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "480957754753",
-    "project_id": "ejad-chat-340711",
-    "storage_bucket": "ejad-chat-340711.appspot.com"
+    "project_number": "889596689094",
+    "project_id": "ejad-chat-341208",
+    "storage_bucket": "ejad-chat-341208.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:480957754753:android:66528b0b2952fe22778c80",
+        "mobilesdk_app_id": "1:889596689094:android:06e23b03a3373d2bb0b5c7",
         "android_client_info": {
           "package_name": "chat.ejad.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "480957754753-g86cmtlgr6phnf4ognpl7vkno6epedds.apps.googleusercontent.com",
+          "client_id": "889596689094-j5d7hkqvsm8udvu9ck378693opv7mvg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.ejad.android",
+            "certificate_hash": "bb5c72205ce8de05d7c82fc629d4673a478d1bb0"
+          }
+        },
+        {
+          "client_id": "889596689094-uvggb63m4rbgvjrmcigmlc28u47v6alc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCtDVwPJfbLuqVfjGTex12ENWseuSrwaHg"
+          "current_key": "AIzaSyCRGFUlSJ1aW9swoSx4Vni_vrYcsqLz684"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "480957754753-g86cmtlgr6phnf4ognpl7vkno6epedds.apps.googleusercontent.com",
+              "client_id": "889596689094-uvggb63m4rbgvjrmcigmlc28u47v6alc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

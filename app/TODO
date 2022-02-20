@@ -1,9 +1,1 @@
-TODO: It seems to be working but there is an error That says
-    "E/AndroidRuntime: FATAL EXCEPTION: IntentService[FcmInstanceIdRefreshHandlerService]"
-    after doing some search found that this error is caused by a conflict between two
-    packages and these packages are react-native-notifications and react-native-device-info
-    it appears that react-native-device-info package is require GCM and
-    react-native-notifications package is require FCM
-    as known before the GCM is deprecated and replaced by FCM
-    the solution is to find a resolution and resolve the conflict between these two packages
-    or try to convince the react-native-device-info package to use FCM instead for GCM.
+// DONE: Apply Executed Steps On Production 

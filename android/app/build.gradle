@@ -288,7 +288,8 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:29.0.4')
     implementation 'com.google.firebase:firebase-analytics'
     //
-    playImplementation "com.google.firebase:firebase-messaging:18.0.0"
+    // implementation "com.google.firebase:firebase-messaging:20.1.6"
+    playImplementation "com.google.firebase:firebase-messaging:20.1.6"
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
     debugImplementation("com.facebook.flipper:flipper:${FLIPPER_VERSION}") {
       exclude group:'com.facebook.fbjni'
