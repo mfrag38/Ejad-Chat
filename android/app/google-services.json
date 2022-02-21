@@ -7,18 +7,26 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:889596689094:android:06e23b03a3373d2bb0b5c7",
+        "mobilesdk_app_id": "1:889596689094:android:abb1874e5dd6a551b0b5c7",
         "android_client_info": {
-          "package_name": "chat.ejad.android"
+          "package_name": "chat.ejadtech.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "889596689094-j5d7hkqvsm8udvu9ck378693opv7mvg9.apps.googleusercontent.com",
+          "client_id": "889596689094-3t9mjc9k77s8o507udllvt6k8ng7o0r2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "chat.ejad.android",
+            "package_name": "chat.ejadtech.android",
             "certificate_hash": "bb5c72205ce8de05d7c82fc629d4673a478d1bb0"
+          }
+        },
+        {
+          "client_id": "889596689094-f2mvlemb0coms62v3la1f0ds5svsbp47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.ejadtech.android",
+            "certificate_hash": "64b538409b408656cfe12d1a3925d1f5b217be22"
           }
         },
         {
