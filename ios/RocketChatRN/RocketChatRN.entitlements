@@ -15,11 +15,11 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.ios.chat.rocket</string>
+		<string>group.ios.chat.ejad</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)chat.rocket.reactnative</string>
+		<string>$(AppIdentifierPrefix)ios.chat.ejad</string>
 	</array>
 </dict>
 </plist>
