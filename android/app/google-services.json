@@ -1,50 +1,49 @@
 {
   "project_info": {
-    "project_number": "889596689094",
-    "project_id": "ejad-chat-341208",
-    "storage_bucket": "ejad-chat-341208.appspot.com"
+    "project_number": "952496481927",
+    "project_id": "ejad-chat-test-342208",
+    "storage_bucket": "ejad-chat-test-342208.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:889596689094:android:abb1874e5dd6a551b0b5c7",
+        "mobilesdk_app_id": "1:952496481927:android:2ff183edc14cbda953ba22",
         "android_client_info": {
-          "package_name": "chat.ejadtech.android"
+          "package_name": "test.chat.ejadtech.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "889596689094-3t9mjc9k77s8o507udllvt6k8ng7o0r2.apps.googleusercontent.com",
+          "client_id": "952496481927-d6or4hlkdma3lmg4hc2e9pkdac5h83v2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "chat.ejadtech.android",
+            "package_name": "test.chat.ejadtech.android",
             "certificate_hash": "bb5c72205ce8de05d7c82fc629d4673a478d1bb0"
           }
         },
         {
-          "client_id": "889596689094-f2mvlemb0coms62v3la1f0ds5svsbp47.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "chat.ejadtech.android",
-            "certificate_hash": "64b538409b408656cfe12d1a3925d1f5b217be22"
-          }
-        },
-        {
-          "client_id": "889596689094-uvggb63m4rbgvjrmcigmlc28u47v6alc.apps.googleusercontent.com",
+          "client_id": "952496481927-q0pdsh6mm3q2qc1r1aop6no3jp2fsotm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCRGFUlSJ1aW9swoSx4Vni_vrYcsqLz684"
+          "current_key": "AIzaSyD4LZTewfTIyRJViOPNXEakTIytfayFjxA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "889596689094-uvggb63m4rbgvjrmcigmlc28u47v6alc.apps.googleusercontent.com",
+              "client_id": "952496481927-q0pdsh6mm3q2qc1r1aop6no3jp2fsotm.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "952496481927-27ko7h7tetlhk3d1804dla21j2r9nfpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "chat.ejad.ios"
+              }
             }
           ]
         }
