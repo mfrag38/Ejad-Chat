@@ -658,8 +658,10 @@ const RocketChat = {
 		}
 	},
 	registerPushToken() {
+		console.info('Fired');
 		return new Promise(async resolve => {
 			const token = getDeviceToken();
+			console.info('Device Token:', token);
 			if (token) {
 				const type = isIOS ? 'apn' : 'gcm';
 				const data = {
